@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Pixel Koalas!
 
-You can use the [editor on GitHub](https://github.com/Ast3y/pixelkoalasite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A brand new NFT collection with the consumer in mind!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The future of thepro
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
